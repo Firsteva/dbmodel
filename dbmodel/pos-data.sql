@@ -53,7 +53,7 @@ insert into TORDERS (TNO, TPRICE, ODATE) value(8,12000,'2014-11-22');
 insert into ORDER_MENUS (MNO, ONO, NUM) values(9, 8, 3);
 insert into TORDERS (TNO, TPRICE, ODATE) value(9,6000,'2014-11-22');
 insert into ORDER_MENUS (MNO, ONO, NUM) values(1, 9, 3);
-
+ 
 
 
 
